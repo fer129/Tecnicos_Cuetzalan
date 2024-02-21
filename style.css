@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to bottom, #334fcc, #1d1375);
+
+}
+.imagenes{
+    margin: 0 490px;
+}
+.cuetza{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.vis{
+    width: 30px;
+}
+
+.ad{ 
+    text-align: right;
+}
